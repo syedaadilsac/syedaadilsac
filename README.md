@@ -12,7 +12,7 @@ I'm an engineering undergraduate specializing in **ECE VLSI** at Atria Institute
 - **Interests:** VLSI Design, AI Integration, Sustainable Tech, Web Development
 
 ### 📫 How to Reach Me
-- **Email:** [syedaadil2008.s@gmail.com](mailto:syedaadil2008.s@gmail.com
+- **Email:** syedaadil2008.s@gmail.com
 
 <!---
 syedaadilsac/syedaadilsac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
